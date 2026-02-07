@@ -1,0 +1,16 @@
+Num. of prepack: 30, Num. of products: 20 
+Fast Product: 10, Moderate Product: 6, Slow Product: 4 
+Fast - Fast: 5, Fast - Moderate: 3, Fast - Slow: 2 
+===================================== 
+chosen_id: [ 14  18  33  55  61 118 133 171 190 196 205 206 235 248 249 362 417 430
+ 435 565] 
+multi prepack: [[ 14  55]
+ [118 196]
+ [ 14  61]
+ [ 18  55]
+ [133 171]
+ [118 248]
+ [ 18 249]
+ [ 61 235]
+ [171 430]
+ [196 435]]
